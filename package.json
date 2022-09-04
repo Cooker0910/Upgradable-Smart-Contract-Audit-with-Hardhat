@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cooker0910/Upgradable-Smart-Contract-Audit-with-Hardhat.git",
+  "author": "cooker0910 <cooker0910@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/hardhat-upgrades": "^1.20.0",
+    "hardhat": "^2.11.0"
+  }
+}
